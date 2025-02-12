@@ -1,7 +1,7 @@
 # Hey 👋, I'm Hamza Alshaheen!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-alshaheen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white)](mailto:hamzaalshaheen718@gmail.com)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=flat&logo=google-chrome&logoColor=white)](https://student.labranet.jamk.fi/~AG3020/Web-kehitys/Harjoitusty%c3%b6/)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=flat&logo=google-chrome&logoColor=white)](https://student.labranet.jamk.fi/~AG3020/Hamza%20Alshaheen/)
 
 I’m passionate about **coding**, **problem-solving**, and building **innovative solutions**. Currently, I’m studying **Information and Communication Technology Engineering** at **Jyväskylä University of Applied Sciences** and working towards becoming a **software engineer**.
 I strive to bring discipline, focus, and a commitment to **continuous learning**. My goal is to contribute to **innovative projects**, grow professionally in the **tech industry**, and solve real-world challenges.
