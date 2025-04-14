@@ -1,4 +1,4 @@
-# Hey 👋, I'm Hamza Alshaheen!
+# Hey 👋, I'm Hamza!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-alshaheen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white)](mailto:hamzaalshaheen718@gmail.com)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=flat&logo=google-chrome&logoColor=white)](https://student.labranet.jamk.fi/~AG3020/Hamza%20Alshaheen/)
