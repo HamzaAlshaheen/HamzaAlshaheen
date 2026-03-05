@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white)](mailto:hamzaalshaheen718@gmail.com)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=flat&logo=google-chrome&logoColor=white)](https://hamzaalshaheen.github.io/)
 
-Passionate about **Cyber Security** **coding**, **problem-solving**, and building **innovative solutions**.  
+Passionate about **Cyber Security**, **coding**, **problem-solving**, and building **innovative solutions**.  
 Currently studying **Information and Communication Technology Engineering** at **Jyväskylä University of Applied Sciences**, with the goal of becoming a **software engineer**.
 
 ---
